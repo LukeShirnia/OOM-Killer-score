@@ -10,4 +10,4 @@ if [ -f "$i"/oom_score ]; then
   printf "$i/oom_score \n";
 fi;
 
-done | awk '$1 > 1' | sort -n -k1
+done | awk '$1 > 1' | sort -nr -k1
