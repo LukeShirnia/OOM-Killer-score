@@ -14,26 +14,52 @@ To run script:
 
 
 
-6 php-fpm /proc/33455/oom_score
+121 mysqld /proc/24828/oom_score
 
-7 php-fpm /proc/17217/oom_score
+103 rackspace-monit /proc/15168/oom_score 
 
-7 php-fpm /proc/33454/oom_score
+94 varnishd /proc/13528/oom_score 
 
-7 php-fpm /proc/33456/oom_score
+84 varnishd /proc/13527/oom_score 
 
-7 php-fpm /proc/33464/oom_score
+45 php-fpm /proc/25685/oom_score 
 
-7 php-fpm /proc/36846/oom_score
+44 php-fpm /proc/25686/oom_score 
 
-8 php-fpm /proc/33457/oom_score
+42 php-fpm /proc/6820/oom_score 
 
-8 php-fpm /proc/33458/oom_score
+42 php-fpm /proc/25687/oom_score 
 
-9 Plex Media Serv /proc/5042/oom_score
+41 php-fpm /proc/25684/oom_score 
 
-11 python /proc/2903/oom_score
+40 php-fpm /proc/25683/oom_score 
 
-16 python /proc/5049/oom_score
+39 php-fpm /proc/26555/oom_score 
 
-17 mysqld /proc/28871/oom_score
+36 php-fpm /proc/2879/oom_score 
+
+36 php-fpm /proc/2868/oom_score 
+
+19 php-fpm /proc/25681/oom_score 
+
+17 firewalld /proc/529/oom_score 
+
+16 driveclient /proc/21200/oom_score 
+
+13 python /proc/10338/oom_score 
+
+10 tuned /proc/871/oom_score 
+
+9 polkitd /proc/4899/oom_score 
+
+8 fail2ban-server /proc/13549/oom_score 
+
+6 php-fpm /proc/25692/oom_score 
+
+6 php-fpm /proc/25691/oom_score 
+
+6 php-fpm /proc/25690/oom_score 
+
+6 php-fpm /proc/25689/oom_score 
+
+6 php-fpm /proc/25688/oom_score 
