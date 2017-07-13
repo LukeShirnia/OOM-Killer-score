@@ -6,7 +6,7 @@ Script is designed to asses the systems process and their oom_score
 
 To run script:
 
-` bash <(curl -s https://raw.githubusercontent.com/luke7858/OOM-Killer/master/score_check.sh)`
+` bash <(curl -s https://raw.githubusercontent.com/luke7858/OOM-Killer-score/master/score_check.sh)`
 
 
 Or 
